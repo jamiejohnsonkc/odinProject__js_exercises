@@ -17,7 +17,7 @@ const reverseString = function (string) {
   return string.split("").reverse().join("");
 };
 
-reverseString("hello");
+reverseString("hello there");
 // console.log(reverseString("hello there"));
 
 module.exports = reverseString;
