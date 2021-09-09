@@ -1,11 +1,11 @@
 {
-  "name": "javascript-exercises",
+  "name": "odinProject__js_exercises",
   "version": "1.0.0",
   "description": "These are a series of javascript exercises intended to be used alongside the curriculum at 'The Odin Project'  They start off nice and easy, but get more involved as you progress through them.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jamiejohnsonkc/odinProject__js_exercises.git"
+    "url": "https://github.com/jamiejohnsonkc/odinProject__js_exercises.git"
   },
   "author": "",
   "license": "ISC",
